@@ -1,5 +1,5 @@
 import Navbar from './components/Navbar'
-import Ipod from './components/Ipod'
+import Ipod from './components/ipod'
 import './index.css'
 
 function App() {
